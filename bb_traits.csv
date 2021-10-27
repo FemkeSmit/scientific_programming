@@ -1,0 +1,17 @@
+clade,subgenus,bb.sp.lat,bb.sp,pbl.w,pbl.w.class,pbl.w.class2,pbl.w.ref,Notes,pbl.w.durieaux,notes_durieaux
+SF,Alpigenobombus,Bombus wurflenii,wurf,7.5,2,med,Arbetman.2017,,9,
+SF,Bombus,Bombus telu,telu,6.9,1,short,Arbetman.2017,"B. terrestris = 7.6, B. lucorum = 6.1, B. cryptarum not given but observed only once.",8.2,"terr = 8.9, luc = 7.5"
+K,Kallobombus,Bombus soroeensis,soro,6.2,1,short,Arbetman.2017,,8,
+LF,Megabombus,Bombus gerstaeckeri,gers,16.8,5,long,Obeso.1992,,16.8,"Missing in Durieaux, added from Obeso."
+LF,Megabombus,Bombus hortorum,hort,12.7,5,long,Arbetman.2017,,12.18,
+SF,Melanobombus,Bombus lapidarius,lapi,7,1,short,Arbetman.2017,,7.7,
+M,Mendacibombus,Bombus mendax,mend,10.3,5,long,Durieux.2000,,10.26,
+LF,Psithyrus,Psithyrus,psit,6.6,1,short,Arbetman.2017,"Tongue lengths are given only for B. silvestris and B. quadricolor, both 6.6 mm.   ",6.6,"Missing in Durieaux, added from Arbetman."
+SF,Pyrobombus,Bombus hypnorum,hypn,8.9,4,med,Arbetman.2017,,7.7,
+SF,Pyrobombus,Bombus jonellus,jone,6,1,short,Arbetman.2017,,6,"Missing in Durieaux, added from Arbetman."
+SF,Pyrobombus,Bombus monticola,mont,7.5,2,med,Arbetman.2017,,7.5,
+SF,Pyrobombus,Bombus pratorum,prat,7.3,2,short,Arbetman.2017,,8,
+SF,Pyrobombus,Bombus pyrenaeus,pyre,6.1,1,short,Arbetman.2017,,7.8,
+LF,Thoracobombus,Bombus humilis,humi,7.9,2,med,Arbetman.2017,,9.1,
+LF,Thoracobombus,Bombus mucidus,muci,8,2,med,Arbetman.2017,,7.7,
+LF,Thoracobombus,Bombus pascuorum,pasc,8.4,3,med,Arbetman.2017,,9.15,
